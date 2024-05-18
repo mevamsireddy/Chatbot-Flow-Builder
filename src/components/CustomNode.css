@@ -1,0 +1,56 @@
+.custom-node {
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0;
+    position: relative;
+  }
+  
+  .node-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #ccffcc; /* Light green */
+    border-bottom: 1px solid #ccc;
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .node-header .icon {
+    margin: 0 5px;
+  }
+  
+  .node-text {
+    flex-grow: 1;
+    text-align: center;
+  }
+
+  .node-content {
+    padding: 10px;
+  }
+  
+  .bg-light-green {
+    background-color: #ccffcc;
+  }
+  
+  .custom-node .react-flow__handle {
+    width: 10px;
+    height: 10px;
+    background: #999;
+    border-radius: 50%;
+  }
+  
+  #target-handle .target-arrow {
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+  }
+  

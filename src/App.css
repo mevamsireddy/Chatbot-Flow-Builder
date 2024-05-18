@@ -1,0 +1,49 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: grey;
+  padding: 10px;
+}
+
+.save-button {
+  background-color: white;
+  color: blue;
+  border: 2px solid blue;
+  border-radius: 12px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.main-content {
+  display: flex;
+  height: 100%;
+}
+
+.reactflow-wrapper {
+  width: 80%;
+  height: 100%;
+  position: relative;
+}
+
+.nodes-panel {
+  width: 20%;
+  background-color: #f0f0f0;
+  border-left: 2px solid #ccc;
+  padding: 10px;
+}
+
+.react-flow__edge-path {
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+.marker-arrow {
+  fill: #000;
+}
