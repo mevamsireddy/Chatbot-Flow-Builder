@@ -32,16 +32,19 @@ chatbot-flow-builder/
 
 ## Installation
 Clone the repository:
-git clone https://github.com/yourusername/chatbot-flow-builder.git
+git clone [ github ](https://github.com/mevamsireddy/Chatbot-Flow-Builder.git)
 
 Navigate to the project directory:
+
 `cd chatbot-flow-builder`
 
 Install the dependencies:
+
 `npm install`
 
 Running the Application
 Start the development server:
+
 `npm start`
 
 Open your browser and navigate to `http://localhost:3000` to see the application in action.
