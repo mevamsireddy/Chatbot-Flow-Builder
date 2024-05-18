@@ -2,6 +2,9 @@
 
 A web application for visually designing chatbot conversation flows. This project uses React and React Flow to create an interactive UI for building and managing chatbot nodes and edges.
 
+## Live Demo
+Check out the live demo of the application: Chatbot Flow Builder [Chatbot Flow Builder](https://chatbots-flow-builder.vercel.app/)
+
 ## Features
 - Drag-and-Drop Interface: Easily drag and drop nodes to create conversation flows.
 - Custom Nodes: Implement custom node types with specific icons and styles.
