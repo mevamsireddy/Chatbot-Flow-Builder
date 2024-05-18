@@ -32,7 +32,7 @@ chatbot-flow-builder/
 
 ## Installation
 Clone the repository:
-git clone [ github ](https://github.com/mevamsireddy/Chatbot-Flow-Builder.git)
+git clone [ https://github.com/mevamsireddy/Chatbot-Flow-Builder.git ](GitHub)
 
 Navigate to the project directory:
 
